@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohtashim Butt</h1>
-<h3 align="center">I am a final year computer science major at LUMS with a career interest in Machine Learning, Computer Vision, and NLP.</h3>
+<h3 align="center">I just graduated from LUMS, majoring in computer science research interest in Computer Vision, Image/Video Processing, and Generative AI.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohtashimbutt&label=Profile%20views&color=0e75b6&style=flat" alt="mohtashimbutt" /> </p>
 
