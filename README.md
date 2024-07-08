@@ -13,7 +13,7 @@
 - 🔭 I’m currently working on **developing a deep learning model**, for instance segmentation of greenspaces across the urban setting. The model inputs satellite imagery and segments potential green spaces (e.g., trees, grasslands, parks, crops, shrublands, etc.). The model outperforms the European Space Agency's LULC benchmark and gives the IoU score of 96%. 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohtashimbutt&show_icons=true&locale=en" alt="mohtashimbutt" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohtashimbutt&" alt="mohtashimbutt" /></p>
+
 
 - 🔭 See my favorite projects in the pinned repos below 🔽
 
